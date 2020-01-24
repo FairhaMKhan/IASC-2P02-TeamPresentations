@@ -46,24 +46,24 @@ Base Question - Ryan and Rup
 - Who do you think will benefit from using this website/tool?
 
 Research and Finding Questions - Glen and Eugene
-Use the website/tool to create an outcome that explores the different tools and resources given. 
-Make sure to label and record your outcomes in the research (this can include doing graphs, using voyant and etc)
-How good was the outcome? 
-Was the tools efficient? 
-What would you have changed in the website/tool to better express your outcome? 
-What did you find most helpful and do you think you might use it in the future? 
+- Use the website/tool to create an outcome that explores the different tools and resources given. 
+- Make sure to label and record your outcomes in the research (this can include doing graphs, using voyant and etc)
+- How good was the outcome? 
+- Was the tools efficient? 
+- What would you have changed in the website/tool to better express your outcome? 
+- What did you find most helpful and do you think you might use it in the future? 
 
 Theoretical Questions - Fariha
-Pick a reading that was discussed in class (Only one)
-Kirschenbaum, “What is DH and what is it doing in English departments?”
-Alvarado, “The Digital Humanities Situation”
-Moretti, “Graphs, Maps, Trees.”
-Nowviskie, “Neatline and Visualization as Interpretation.” 
-Relate the reading to the website/tool. 
-How it relates to digital humanities/scholarship?
-What connections does the reading have with the website?
-Does the reading view the website in a good/bad way?
-Share an interesting point of view you saw in the website/tool after relating it to a reading that you previously did not think about.
+- Pick a reading that was discussed in class (Only one)
+- Kirschenbaum, “What is DH and what is it doing in English departments?”
+- Alvarado, “The Digital Humanities Situation”
+- Moretti, “Graphs, Maps, Trees.”
+- Nowviskie, “Neatline and Visualization as Interpretation.” 
+- Relate the reading to the website/tool. 
+- How it relates to digital humanities/scholarship?
+- What connections does the reading have with the website?
+- Does the reading view the website in a good/bad way?
+- Share an interesting point of view you saw in the website/tool after relating it to a reading that you previously did not think about.
 
 
 Everyone talks about how github was used for this project, how it helped and etc
