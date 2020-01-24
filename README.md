@@ -29,20 +29,21 @@ Team Members -
 We will talk after/during lab to decide who wants to do which parts and when to meet to discuss things about the presentation slides. 
 
 Base Question - Ryan and Rup
-What is Hyper Cities?
-What are Hyper Cilies goals, what do they want to accomplish?
-What are some of the tools (special effects, placements, display, navigation) they use?
-Add Pictures 
-Be very specific 
-How are the tools used
-What is it trying to go against?
-Who are the people who worked on the project?
-Sponsures 
-Tech/Web Designer 
-Researchers
-The Maker of the website
-Where is it located (where is its headquarters)? 
-Who do you think will benefit from using this website/tool?
+
+- What is Hyper Cities?
+- What are Hyper Cilies goals, what do they want to accomplish?
+- What are some of the tools (special effects, placements, display, navigation) they use?
+        - Add Pictures 
+        - Be very specific 
+        - How are the tools used
+- What is it trying to go against?
+- Who are the people who worked on the project?
+        - Sponsures 
+        - Tech/Web Designer 
+        - Researchers
+        - The Maker of the website
+- Where is it located (where is its headquarters)? 
+- Who do you think will benefit from using this website/tool?
 
 Research and Finding Questions - Glen and Eugene
 Use the website/tool to create an outcome that explores the different tools and resources given. 
